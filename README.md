@@ -1,6 +1,6 @@
 # sum-api with Dockerization
 
-**************Please see the shared screenshot***********************
+**************Please see the screenshot provided***********************
 
 1. This project contains a simple HTTP end point creation which will do a simple sum of two numbers.
 2. For better handling of the code and enhancement, exception handling and modularity(function based implementaion) is provided.
