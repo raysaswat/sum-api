@@ -13,6 +13,12 @@ Steps to run the application without Docker :
  3. python manage.py runserver
  4. Open localhost:8000
  
+file:///home/sray/Desktop/interview/Comakeit/sum/sum-api/mustsee/Screenshot%20from%202020-03-30%2012-27-31.png
+ 
+ 
+ 
+ 
+ 
  Steps to run the application with Docker :
  
  1.Pull the image from docker hub :
