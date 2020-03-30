@@ -1,6 +1,6 @@
 # sum-api with Dockerization
 
-*********Please see the shared screenshot named as "mustsee" ***********************
+**************Please see the shared screenshot***********************
 
 1. This project contains a simple HTTP end point creation which will do a simple sum of two numbers.
 2. For better handling of the code and enhancement, exception handling and modularity(function based implementaion) is provided.
@@ -14,17 +14,18 @@ Steps to run the application without Docker :
  4. Open localhost:8000
  
 
- 
- 
- 
- 
+
  
  Steps to run the application with Docker :
  
  1.Pull the image from docker hub :
+ 
     docker image pull <yourdockerusername>/sum-docker
+    
  2.Run the docker
+ 
     docker run -p 8888:5000 <yourdockerusername>/sum-docker
+    
   
   
   https://docker-curriculum.com/ - For any information about containerization of Django web app
